@@ -1,0 +1,7 @@
+name: rob-pytest
+channels:
+  - defaults
+dependencies:
+  - python
+  - pandas 
+  - pytest
