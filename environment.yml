@@ -1,7 +1,9 @@
 name: rob-pytest
 channels:
   - defaults
+  - trentonoliphant
 dependencies:
   - python
   - pandas 
   - pytest
+  - datetime
